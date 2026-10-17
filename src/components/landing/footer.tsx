@@ -9,9 +9,14 @@ export function Footer() {
           {site.name} — dibangun untuk dev, oleh dev. Data buatan GitHub API
           publik.
         </p>
-        <p className="text-[11px] uppercase tracking-[1px]">
+        <a 
+          href="https://github.com/adityaberwibawa"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[11px] uppercase tracking-[1px]"
+        >
           SUPER BOWO 
-        </p>
+        </a>
       </div>
     </footer>
   );
