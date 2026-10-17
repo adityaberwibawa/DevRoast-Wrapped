@@ -10,7 +10,7 @@ export function Footer() {
           publik.
         </p>
         <p className="text-[11px] uppercase tracking-[1px]">
-          Next 16 · Gemini · Tailwind 4
+          SUPER BOWO 
         </p>
       </div>
     </footer>
